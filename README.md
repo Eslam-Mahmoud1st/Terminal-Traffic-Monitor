@@ -36,4 +36,4 @@ A real-time CLI network monitoring tool built with Python. It tracks active syst
 3. **Run the monitor:**
     python traffic_monitor.py
 
-(Press Ctrl + C at any time to exit the live view and flush logs).
+   (Press Ctrl + C at any time to exit the live view and flush logs).
