@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+network_traffic.db
+.venv/
