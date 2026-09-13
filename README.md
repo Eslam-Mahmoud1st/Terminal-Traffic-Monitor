@@ -24,7 +24,7 @@ A real-time CLI network monitoring tool built with Python. It tracks active syst
 ---
 
 ## Screenshot
-![](Screenshot/run.jpeg)
+![running](Screenshots/run.jpeg)
 
 ## Installation & Usage
 
